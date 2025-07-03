@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rg:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run dist-portable:*)",
+      "Bash(npm run:*)"
+    ],
+    "deny": []
+  }
+}
